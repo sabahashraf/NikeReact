@@ -1,0 +1,23 @@
+
+.text-orange{
+    color:#FA804C;
+}
+.text-black{
+    color:#363958;
+}
+.size{
+    width:24px;
+    height:24px;
+}
+.bg-header{
+    background-color: #FFF9F4;
+}
+
+.bg-shoe{
+    background-color: #f1f1f1;
+}
+
+.icon{
+    width:78px;
+    height:82px;
+}
